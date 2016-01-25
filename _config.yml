@@ -1,0 +1,28 @@
+name: 'Patrice Michellon | Photography'
+favicon: null
+layout_spectrum: 0.11102199624292552
+typography_spectrum: 0.4899523768108338
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.786029172828421
+  lightness: 0.1897133889142424
+  saturation: 0.8361301976256073
+  rhythmicContrast: 0.48472462873905897
+purpose: []
